@@ -1,3 +1,7 @@
+# Terraform Cloud Organization
+
+![Terraform Cloud Organization](terraform\_cloud\_organization.png)
+
 ## Requirements
 
 No requirements.

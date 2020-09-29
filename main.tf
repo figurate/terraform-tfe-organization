@@ -1,3 +1,8 @@
+/**
+ * # Terraform Cloud Organization
+ *
+ * ![Terraform Cloud Organization](terraform_cloud_organization.png)
+ */
 resource "tfe_organization" "organization" {
   email = var.admin
   name  = var.name
