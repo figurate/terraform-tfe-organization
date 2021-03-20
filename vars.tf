@@ -11,3 +11,8 @@ variable "membership" {
   type        = list(string)
   default     = []
 }
+
+variable "collaborator_auth_policy" {
+  description = "Authentication type"
+  default     = "password"
+}
