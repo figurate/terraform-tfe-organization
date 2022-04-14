@@ -1,6 +1,9 @@
 /**
  * # Terraform Cloud Organization
  *
+ * [![CI](https://github.com/figurate/terraform-tfe-organization/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-tfe-organization/actions/workflows/main.yml)
+ *
+ *
  * ![Terraform Cloud Organization](terraform_cloud_organization.png)
  */
 resource "tfe_organization" "organization" {
